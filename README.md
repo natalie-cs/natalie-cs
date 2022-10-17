@@ -10,8 +10,8 @@ I prefer to talk as if I were writing in code
   }
 }
 
-/*
+
 ### Version ###
 Has some knowledge of C# in .NET Framework and Core
 Planning on learning C++ for Unreal Engine and standalone applications
-*/
+
